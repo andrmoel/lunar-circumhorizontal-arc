@@ -9,6 +9,7 @@
         }
     ],
     "require": {
+        "ext-gd": "*",
         "andrmoel/astronomy-bundle": "^1.1"
     },
     "autoload": {
