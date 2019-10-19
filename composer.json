@@ -1,0 +1,19 @@
+{
+    "name": "amoeller/lunar-circumhorizontal-arc",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andreas Möller",
+            "email": "andrmoel@gmail.com"
+        }
+    ],
+    "require": {
+        "andrmoel/astronomy-bundle": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
